@@ -16,9 +16,12 @@ backend/__pycache__/
 *.db-wal
 .pytest_cache/
 
-# Environment files
+# Environment & Local Notes
 .env*.local
 .env
+PROJECT_GUIDE.md
+NOTES.md
+*.local.md
 
 # OS Files
 .DS_Store
